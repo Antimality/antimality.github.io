@@ -64637,7 +64637,7 @@ r=B.c.B(s,A.lt("[\u05d0-\u05ea]",!0))?B.E:B.P
 return A.agT(B.lK,q,o,B.jJ,n,A.mU(q,A.ag2(s,2,this.a.S5(p),q,q,r),B.a8,!1,q,q,q,q,q,q,new A.acd(a,p),q,q,q,q,q,q,q,q,q,q),m)},
 $S:94}
 A.acd.prototype={
-$0(){if($.ev.b===4)A.aiv(new A.acc(this.b),this.a,t.z)},
+$0(){if($.ev.b>=3)A.aiv(new A.acc(this.b),this.a,t.z)},
 $S:0}
 A.acc.prototype={
 $1(a){var s=null
